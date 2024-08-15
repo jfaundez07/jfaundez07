@@ -1,4 +1,7 @@
 <h1 align="center"> Hi! 👋🏻 What are you doing here? </h1>
+<p align="center">I'm still learning new things ⚡</p>
+<p align="center">Always trying to improve 🚀</p>
+
 
 ## 📊 Current GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jfaundez07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
