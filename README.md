@@ -12,6 +12,7 @@
 </div>
 
 <h2 align="center">GitHub Streaks🔥</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jfaundez07&theme=tokyonight&hide_border=true)
 
 [![](https://visitcount.itsvg.in/api?id=jfaundez07&icon=2&color=0)](https://visitcount.itsvg.in)
