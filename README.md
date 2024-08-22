@@ -3,7 +3,7 @@
 <p align="center">Always trying to improve 🚀</p>
 
 
-## 📊 Current GitHub Stats:
+<h2 align="center"> 📊 Current GitHub Stats: </h2>
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=jfaundez07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
