@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/joaquin-faundez-concha-ab3159269" target="_blank">
         <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
     </a>
-    <a href="j.faundez07@ufromail.cl" target="_blank">
+    <a href="mailto:j.faundez07@ufromail.cl" target="_blank">
         <img align="center" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
     </a>
     <br/>
