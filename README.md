@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! 👋🏻 What are you doing here? </h1>
 <p align="center">I'm still learning new things ⚡</p>
 <p align="center">Always trying to improve 🚀</p>
-1
+
 <h2 align="center">📊 Current GitHub Stats</h2>
 
 <div align="center">
